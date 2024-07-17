@@ -5,8 +5,6 @@ Domain : Web Development
 Duration : 6 weeks ( 5 June 2024 to 17 July 2024 )
 Mentor : SRAVANI GOUNI
 
-Certainly! Here's a detailed documentation template for your Weather Forecast Website project:
-
 ---
 
 # Weather Forecast Website Documentation
